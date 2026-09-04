@@ -7,7 +7,7 @@ about:
   head: 1d351ca
   archived: false
   latestVersion: v0.9
-  collectedAt: 2026-09-04T20:02:12Z
+  collectedAt: 2026-09-04T20:39:56Z
 timeline:
   created: 2020-01-27
   lastCommit: 2026-01-28
@@ -81,6 +81,34 @@ total:
   openIssue: 33
   commit: 272
 ---
+path: /home/runner/.x-repo/github.com/tbillington/kondo
+collectedAt: 2026-09-04T20:39:56Z
+loc:
+  Rust:
+    code: 1587
+    comments: 32
+    blanks: 199
+    files: 4
+  Toml:
+    code: 76
+    comments: 6
+    blanks: 10
+    files: 4
+  Bash:
+    code: 30
+    comments: 10
+    blanks: 9
+    files: 4
+  Markdown:
+    code: 0
+    comments: 190
+    blanks: 75
+    files: 2
+total:
+  code: 1695
+  comments: 255
+  blanks: 294
+  files: 14
 ---
 date: "2026-08-24"
 repo:
