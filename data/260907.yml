@@ -5,7 +5,7 @@ about:
   head: 1d351ca
   archived: false
   latestVersion: "v0.9"
-  collectedAt: 2026-09-07T05:02:03Z
+  collectedAt: 2026-09-07T19:23:16Z
 timeline:
   created: 2020-01-27
   lastCommit: 2026-01-28
@@ -80,7 +80,7 @@ total:
   commit: 272
 ---
 path: /home/runner/.x-repo/github.com/tbillington/kondo
-collectedAt: 2026-09-07T05:02:05Z
+collectedAt: 2026-09-07T19:23:16Z
 loc:
   Rust:
     code: 1587
@@ -222,7 +222,7 @@ checks:
       - 'Warn: 0 commits out of 23 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:02:07+00:00
+  collectedAt: 2026-09-07T19:23:17+00:00
   platform:
     darwin/arm64:
       name:  kondo-aarch64-apple-darwin.tar.gz
