@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 958920,
       "digest": "sha256:4c70e7de85bfaf1b66de931654e9943681af42b093cd591530fc0dd4cc4a0f88",
-      "download_count": 569,
+      "download_count": 571,
       "created_at": "2026-01-23T04:53:03Z",
       "updated_at": "2026-01-23T04:53:03Z",
       "browser_download_url": "https://github.com/tbillington/kondo/releases/download/v0.9/kondo-x86_64-pc-windows-msvc.zip"
