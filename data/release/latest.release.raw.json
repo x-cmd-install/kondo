@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 958920,
       "digest": "sha256:4c70e7de85bfaf1b66de931654e9943681af42b093cd591530fc0dd4cc4a0f88",
-      "download_count": 571,
+      "download_count": 573,
       "created_at": "2026-01-23T04:53:03Z",
       "updated_at": "2026-01-23T04:53:03Z",
       "browser_download_url": "https://github.com/tbillington/kondo/releases/download/v0.9/kondo-x86_64-pc-windows-msvc.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1153136,
       "digest": "sha256:56f89890fd4e16cf5e11bb212bb812b60a8319dabfb05fabaf80c6c8b5133b65",
-      "download_count": 210,
+      "download_count": 211,
       "created_at": "2026-01-23T04:52:37Z",
       "updated_at": "2026-01-23T04:52:37Z",
       "browser_download_url": "https://github.com/tbillington/kondo/releases/download/v0.9/kondo-x86_64-unknown-linux-gnu.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1192015,
       "digest": "sha256:b8855f3ba710661d9d2fb37a32919531697e020b2c0973dc46b1ac52a38048bc",
-      "download_count": 484,
+      "download_count": 486,
       "created_at": "2026-01-23T04:53:00Z",
       "updated_at": "2026-01-23T04:53:00Z",
       "browser_download_url": "https://github.com/tbillington/kondo/releases/download/v0.9/kondo-x86_64-unknown-linux-musl.tar.gz"
