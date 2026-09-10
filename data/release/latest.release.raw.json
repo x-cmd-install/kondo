@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1034232,
       "digest": "sha256:847d2f5d8fb242d8fc1eb64b08fba4b8ed9567bef7fb7ff23a7b8c7fd11fc3bc",
-      "download_count": 50,
+      "download_count": 52,
       "created_at": "2026-01-23T04:54:13Z",
       "updated_at": "2026-01-23T04:54:13Z",
       "browser_download_url": "https://github.com/tbillington/kondo/releases/download/v0.9/kondo-aarch64-apple-darwin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1192015,
       "digest": "sha256:b8855f3ba710661d9d2fb37a32919531697e020b2c0973dc46b1ac52a38048bc",
-      "download_count": 490,
+      "download_count": 491,
       "created_at": "2026-01-23T04:53:00Z",
       "updated_at": "2026-01-23T04:53:00Z",
       "browser_download_url": "https://github.com/tbillington/kondo/releases/download/v0.9/kondo-x86_64-unknown-linux-musl.tar.gz"
