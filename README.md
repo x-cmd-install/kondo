@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,606 · **Forks**: 76 · **Open issues**: 65 · **Contributors**: 40
+- **Stars**: 2,606 · **Forks**: 77 · **Open issues**: 65 · **Contributors**: 40
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 83 · **Open PRs**: 16 · **Closed issues**: 31 · **Open issues**: 34 · **Commits**: 272
+- **Releases**: 9 · **Merged PRs**: 83 · **Open PRs**: 17 · **Closed issues**: 31 · **Open issues**: 34 · **Commits**: 272
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-28 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 90d | 2026-08-29 | 0 | 0 | 4 | 0 | 1 | 0 |
-| last180d | 2026-05-31 | 0 | 0 | 6 | 0 | 3 | 0 |
-| 360d | 2025-12-02 | 1 | 3 | 10 | 0 | 5 | 12 |
-| last720d | 2024-12-07 | 1 | 13 | 12 | 1 | 10 | 18 |
+| 30d | 2026-10-29 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-29 | 0 | 0 | 5 | 0 | 0 | 0 |
+| 90d | 2026-08-30 | 0 | 0 | 5 | 0 | 1 | 0 |
+| last180d | 2026-06-01 | 0 | 0 | 7 | 0 | 3 | 0 |
+| 360d | 2025-12-03 | 1 | 3 | 11 | 0 | 5 | 12 |
+| last720d | 2024-12-08 | 1 | 13 | 13 | 1 | 10 | 18 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for kondo lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:17:20Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:17:32Z._
